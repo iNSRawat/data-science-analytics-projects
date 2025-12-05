@@ -60,4 +60,4 @@ python dashboard_automation.py
 - pandas, numpy, google-sheets-api, bigquery, tableauserverclient
 
 ## Author
-Nawab Singh Rawat | Data Science & Analytics Professional
+Nagendra Singh Rawat | Data Science & Analytics Professional
