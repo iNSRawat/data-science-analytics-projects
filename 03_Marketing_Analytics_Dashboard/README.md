@@ -3,6 +3,8 @@
 ## Project Overview
 Automated real-time marketing performance dashboard integrating multiple data sources (Google Analytics, Google Ads, Facebook, Instagram, Salesforce CRM). Provides comprehensive KPI tracking and business insights.
 
+![KPIs](https://img.shields.io/badge/KPIs-25%2B%20Metrics-blueviolet?style=flat-square&logo=googleanalytics) ![ROAS](https://img.shields.io/badge/ROAS-3.75%25-success?style=flat-square) ![Adoption](https://img.shields.io/badge/Adoption-85%25-brightgreen?style=flat-square)
+
 ## Features
 - **25+ KPIs**: Real-time tracking of key performance indicators
 - **Multi-level Drill-down**: Analyze data by date, channel, campaign, audience
