@@ -115,7 +115,7 @@ This repository demonstrates proficiency in:
 
 ## 👨‍💼 Author
 
-**Nawab Singh Rawat**
+**Nagendra Singh Rawat**
 - Data Science & Analytics Professional
 - GitHub: [@iNSRawat](https://github.com/iNSRawat)
 - Portfolio: [nsrawat.vercel.app](https://nsrawat.vercel.app)
