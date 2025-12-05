@@ -159,7 +159,7 @@ python customer_prediction.py
 ## 📚 Resources & Data Sources
 
 **Project 1: Customer Behavior Prediction**
-- **Primary Source:** [Kaggle E-commerce Dataset](https://www.kaggle.com/datasets/saurav1/ecommerce-dataset)
+- **Primary Source:** [Kaggle E-commerce Dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset)
 - **Dataset Link:** UCI Machine Learning Repository - Online Retail II
 - **Alternative Source:** [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 - **Description:** Real-world e-commerce customer transaction data
