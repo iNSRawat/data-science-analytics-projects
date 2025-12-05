@@ -180,7 +180,7 @@ python data_cleaning_analysis.py
 **Project 2: Data Cleaning & Visualization**
 - **Primary Source:** [Google Analytics Public Dataset](https://console.cloud.google.com/marketplace/product/obreserved/ga-pub)
 - **Dataset Link:** Google Merchandise Store Sample Data
-- **Alternative Source:** [Kaggle Google Analytics Dataset](https://www.kaggle.com/datasets/c1639797/google-analytics-sample)
+- **Alternative Source:** [Kaggle Google Analytics Dataset](https://www.kaggle.com/datasets/bigquery/google-analytics-sample)
 - **Description:** Real-world Google Analytics session data from e-commerce website
 - **License:** Public Domain / Creative Commons
 ## Author
