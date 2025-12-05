@@ -155,9 +155,17 @@ python customer_prediction.py
 - Ensemble methods stacking
 - Real-time prediction API
 
-## Author
-Nawab Singh Rawat | Data Science & Analytics
 
+## 📚 Resources & Data Sources
+
+**Project 1: Customer Behavior Prediction**
+- **Primary Source:** [Kaggle E-commerce Dataset](https://www.kaggle.com/datasets/saurav1/ecommerce-dataset)
+- **Dataset Link:** UCI Machine Learning Repository - Online Retail II
+- **Alternative Source:** [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+- **Description:** Real-world e-commerce customer transaction data
+- **License:** CC0: Public Domain
+## Author
+Nagendra Singh Rawat | Data Science & Analytics
 ## References
 - Kaggle: E-commerce Dataset
 - Scikit-learn Documentation
