@@ -6,7 +6,7 @@ A collection of real-world data science projects demonstrating end-to-end implem
 
 This repository contains three comprehensive data science projects with complete datasets, code implementations, and documentation:
 
-### 1. Customer Behavior Prediction
+### 1. Customer Behavior Prediction - [View Project](https://github.com/iNSRawat/data-science-analytics-projects/tree/main/01_Customer_Behavior_Prediction)
 **Classification Model for Purchase Intent Prediction**
 - **Accuracy:** 82% with RandomForest Classifier
 - **Dataset:** 10,000 customer records with 15+ behavioral features
@@ -14,7 +14,7 @@ This repository contains three comprehensive data science projects with complete
 - **Technologies:** Python, Scikit-learn, Pandas, NumPy
 - **Key Metrics:** 80% Precision, 84% Recall, 0.88 ROC-AUC
 
-### 2. Data Cleaning & Visualization - Google Analytics Capstone
+### 2. Data Cleaning & Visualization - Google Analytics Capstone - [View Project](https://github.com/iNSRawat/data-science-analytics-projects/tree/main/02_Data_Cleaning_Visualization)
 **Professional Data Wrangling & Business Intelligence**
 - **Dataset:** 150,000+ user session events (85 MB raw)
 - **Achievements:** 40% reduction in manual reporting time, 99%+ data accuracy
@@ -22,7 +22,7 @@ This repository contains three comprehensive data science projects with complete
 - **Deliverables:** Tableau dashboards, SQL queries, Python analysis scripts
 - **Business Impact:** Identified optimization opportunities worth $250K+ annual value
 
-### 3. Marketing Analytics Dashboard
+### 3. Marketing Analytics Dashboard - [View Project](https://github.com/iNSRawat/data-science-analytics-projects/tree/main/03_Marketing_Analytics_Dashboard)
 **Automated KPI Dashboard with Real-time Metrics**
 - **Features:** 25+ KPIs, Real-time tracking, Multi-level drill-down analysis
 - **Data Sources:** Google Analytics 4, Google Ads, Facebook/Instagram, Salesforce CRM
