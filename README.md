@@ -63,7 +63,7 @@ data-science-analytics-projects/
 │   ├── dashboard_automation.py
 │   └── data/
 │       ├── raw/ga_export.csv
-│       └── processed/dashboard_metrics.xlsx
+│       └── processed/dashboard_metrics.csv
 │
 └── README.md
 ```
