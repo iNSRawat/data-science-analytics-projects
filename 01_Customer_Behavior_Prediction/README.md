@@ -3,6 +3,8 @@
 ## Project Overview
 This project demonstrates a machine learning classification model built with real-world e-commerce customer data from Kaggle. The model predicts customer purchase intent using behavioral and demographic features, achieving **82% accuracy**.
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-blue?style=flat-square&logo=python) ![Accuracy](https://img.shields.io/badge/Accuracy-82%25-brightgreen?style=flat-square) ![Dataset](https://img.shields.io/badge/Dataset-Kaggle%20E--commerce-orange?style=flat-square)
+
 ## Dataset Information
 - **Source:** Kaggle E-commerce Dataset
 - **Total Records:** 12,330 customer session events
