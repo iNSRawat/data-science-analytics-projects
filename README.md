@@ -120,6 +120,48 @@ This repository demonstrates proficiency in:
 - GitHub: [@iNSRawat](https://github.com/iNSRawat)
 - Portfolio: [nsrawat.vercel.app](https://nsrawat.vercel.app)
 
+
+## 📝 Project READMEs & Documentation
+
+Each project in this repository includes comprehensive, project-specific documentation:
+
+### ✅ All Project READMEs Now Include:
+
+**Project-Specific Overview & Context**
+- Tailored introduction for each project
+- Clear problem statement and objectives
+- Real-world application scenarios
+
+**Relevant Metrics & Achievement Badges**
+- Visual badges displaying key performance indicators
+- Project 1: Machine Learning, 82% Accuracy, Kaggle E-commerce Dataset
+- Project 2: Data Cleaning, 99% Accuracy, 150K+ Records, 98.5% Data Quality
+- Project 3: 25+ KPIs, 3.75 ROAS, 85% Adoption Rate
+
+**Dataset Information Tailored to Each Project**
+- Complete dataset specifications and source
+- Data volume and record count details
+- Feature descriptions and technical specifications
+- Data quality metrics and preprocessing steps
+
+**Technologies & Tools Used**
+- Programming languages and libraries specific to each project
+- Cloud platforms and APIs (Google Analytics, BigQuery, Salesforce)
+- Data visualization and analytics tools (Tableau, Matplotlib)
+- Version control and deployment technologies
+
+**Instructions for Running the Project**
+- Step-by-step setup and installation guide
+- Prerequisites and dependency management
+- How to execute analysis notebooks and scripts
+- Expected outputs and result interpretation
+
+**Additional Documentation Features**
+- Business impact and ROI calculations
+- Key findings and actionable insights
+- Future improvements and enhancement roadmap
+- Learning outcomes and skill demonstrations
+- References and external resources
 ## 📄 License
 
 MIT License - feel free to use these projects for learning and reference.
