@@ -176,7 +176,7 @@ python data_cleaning_analysis.py
 
 ## Author
 
-Nawab Singh Rawat | Data Science & Analytics
+Nagendra Singh Rawat | Data Science & Analytics
 
 ## References
 
