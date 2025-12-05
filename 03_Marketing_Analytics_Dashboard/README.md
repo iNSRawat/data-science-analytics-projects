@@ -59,5 +59,17 @@ python dashboard_automation.py
 ## Dependencies
 - pandas, numpy, google-sheets-api, bigquery, tableauserverclient
 
+- ## 📚 Resources & Data Sources
+
+**Project 3: Marketing Analytics Dashboard**
+- **Primary Sources:**
+  - [Google Analytics 4](https://marketingplatform.google.com/about/analytics/)
+  - [Google Ads API](https://developers.google.com/google-ads/api)
+  - [Facebook Graph API](https://developers.facebook.com/docs/graph-api)
+  - [Salesforce API](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_what_is_rest_api.htm)
+- **Dataset:** Custom marketing performance data from multiple platforms
+- **Data Aggregation:** Real-time API connections to Google Marketing Platform, Google Ads, and Salesforce CRM
+- **License:** Proprietary / Commercial
+
 ## Author
 Nagendra Singh Rawat | Data Science & Analytics Professional
