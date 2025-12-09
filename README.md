@@ -90,7 +90,7 @@ This repository demonstrates proficiency in:
 **Nagendra Singh Rawat**
 - Data Science & Analytics Professional
 - GitHub: [@iNSRawat](https://github.com/iNSRawat)
-- Portfolio: [nsrawat.vercel.app](https://nsrawat.vercel.app)
+- Portfolio: [nsrawat.in](https://nsrawat.in)
 
 
 ## 📝 Project READMEs & Documentation
