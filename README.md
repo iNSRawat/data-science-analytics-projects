@@ -40,34 +40,6 @@ This repository contains three comprehensive data science projects with complete
 - **Automation:** Apache Airflow, Google Cloud Scheduler
 - **Version Control:** Git & GitHub
 
-## 📁 Repository Structure
-
-```
-data-science-analytics-projects/
-├── 01_Customer_Behavior_Prediction/
-│   ├── README.md
-│   ├── customer_prediction.py
-│   └── data/
-│       ├── raw/customer_data.csv
-│       └── processed/features.csv
-│
-├── 02_Data_Cleaning_Visualization/
-│   ├── README.md
-│   ├── data_cleaning_analysis.py
-│   └── data/
-│       ├── raw/google_analytics_export.csv
-│       └── processed/cleaned_data.csv
-│
-├── 03_Marketing_Analytics_Dashboard/
-│   ├── README.md
-│   ├── dashboard_automation.py
-│   └── data/
-│       ├── raw/ga_export.csv
-│       └── processed/dashboard_metrics.csv
-│
-└── README.md
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
