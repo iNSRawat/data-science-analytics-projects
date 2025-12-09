@@ -138,10 +138,6 @@ Each project in this repository includes comprehensive, project-specific documen
 
 MIT License - feel free to use these projects for learning and reference.
 
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome! Feel free to open issues or submit pull requests.
-
 ## 📞 Connect
 
 If you find these projects helpful or have questions, reach out:
